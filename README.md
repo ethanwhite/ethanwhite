@@ -1,4 +1,6 @@
-### Hi there 👋
+- 📉️ Professor at the University of Florida studying environmental data science
+- 😄 Pronouns: he/him
+- 🐘️ <a rel="me" href="https://mastodon.social/@ethanwhite">Join me on Mastodon</a>
 
 <!--
 **ethanwhite/ethanwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
