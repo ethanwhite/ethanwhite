@@ -1,5 +1,5 @@
-- 📉️ Professor at the University of Florida studying environmental data science
-- 😄 Pronouns: he/him
+- Professor at the University of Florida studying environmental data science
+- Pronouns: he/him
 - 🐘️ <a rel="me" href="https://mastodon.social/@ethanwhite">Join me on Mastodon</a>
 
 <!--
