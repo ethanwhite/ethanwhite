@@ -1,5 +1,6 @@
 - Professor at the University of Florida studying environmental data science
 - Pronouns: he/him
+- [Lab Group (weecology) GitHub Organization](https://github.com/weecology/)
 - 🐘️ <a rel="me" href="https://mastodon.social/@ethanwhite">Join me on Mastodon</a>
 
 <!--
